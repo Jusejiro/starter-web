@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Juan Jimenez juan@jimenez.com
 
 # THANKS
 
